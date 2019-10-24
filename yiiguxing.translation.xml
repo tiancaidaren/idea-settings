@@ -1,0 +1,55 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="limitation" />
+      <item value="快递" />
+      <item value="Must have no prior active touch points to start a new touch" />
+      <item value="独享" />
+      <item value="间隔" />
+      <item value="transport" />
+      <item value="REFUSED" />
+      <item value="evaluate" />
+      <item value="评价" />
+      <item value="assess" />
+      <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
+      <item value="compression" />
+      <item value="discount" />
+      <item value="Buyer" />
+      <item value="收货" />
+      <item value="签收" />
+      <item value="待签收" />
+      <item value="代签收" />
+      <item value="CSRF verification failed. Request aborted" />
+      <item value="可访问" />
+      <item value="splice" />
+      <item value="并发队列" />
+      <item value="visit" />
+      <item value="访问" />
+      <item value="验证" />
+      <item value="checkout" />
+      <item value="透明" />
+      <item value="127.0.0.1" />
+      <item value="Mechrat" />
+      <item value="Converting" />
+      <item value="redeclare" />
+      <item value="Unexpected identifier" />
+      <item value="Unexpected" />
+      <item value="getaddrinfo" />
+      <item value="Navigation" />
+      <item value="elephant" />
+      <item value="象" />
+      <item value="鹿" />
+      <item value="鹿、" />
+      <item value="parrot" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
